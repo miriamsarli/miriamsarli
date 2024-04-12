@@ -15,10 +15,19 @@
          <img alt="Hacker rank profile" title="Hacker rank profile" src="https://custom-icon-badges.demolab.com/badge/HackerRank-%23FF6933?style=for-the-badge&logo=hackerrank2&logoColor=white&labelColor=%232D4628"></a>
 </p>
 
-<!--#
+## About me:
+Yep, this is me. You're probably wondering how I ended up in this situation.
 
-## About me:-->
+In 2020 (yeah, that year) I was reconsidering my career as an accountant. So I listened to some friends of mine and started studying programming.
+That was the moment I met Python. I also popped my head into the frontend world. I still explore it occasionally
 
+It was in 2021 when I discovered the Data subculture and the chance to investigate the world like a detective. With my previous knowledge at the university, it felt right to follow this path.
+Later that year I got my first job in the IT industry, where I had a brief affaire with Java. In my free time I continued studying the marvelous data world, spicing it up with cloud technology. 
+
+In 2023, like it was meant to be, I got a scholarship to study Cybersecurity. And there he was: my dear Python.
+This time, it showed me a side where I can feel like a superhero, keeping the world safe.
+
+So here I am, walking between two paths, hand in hand with my first love.
 #
 
 ### Languages & Tools:
