@@ -3,7 +3,7 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/miriamsarli/">
         <img alt="Linkedin profile" title="Linkedin profile" src="https://img.shields.io/badge/Linkedin-%23E83100?style=for-the-badge&logo=linkedin&labelColor=%232D4628"></a>
-    <a href="mailto: miriamsarli@gmail.com">
+    <a href="mailto: miriamsarlidev@gmail.com">
          <img alt="Email address" title="Email" src="https://custom-icon-badges.demolab.com/badge/Email-%23FF6933?style=for-the-badge&labelColor=%232D4628&logo=mail"></a>
     <a href="https://www.kaggle.com/miriamsarli">
          <img alt="Kaggle profile" title="Kaggle profile" src="https://img.shields.io/badge/Kaggle-%23FFA570?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=%232D4628"></a>
